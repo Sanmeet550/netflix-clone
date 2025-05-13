@@ -1,0 +1,13 @@
+PAGES
+1. Landing Page
+2. Header (Popular, Top Rated, Upcoming,Search)
+3. All Movies
+4. Single Page
+
+
+RESOURCES TO USE
+React, Router, redux (state management),bootstrap, 
+1. How to Search Movies
+2. Fetch Api Details and apikey
+3. Store it in ENV Variable
+
